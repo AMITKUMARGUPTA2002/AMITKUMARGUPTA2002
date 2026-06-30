@@ -5,8 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F85149&center=true&vCenter=true&width=640&lines=OSCP%2B+%7C+CRTA+Certified+Red+Teamer;Penetration+Tester+%7C+Adversary+Emulation;MITRE+ATT%26CK+%7C+Active+Directory+Exploitation;Bug+Bounty+%7C+Hall+of+Fame+x10%2B+Orgs)](https://armourbuff.github.io)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-armourbuff.github.io-F85149?style=for-the-badge)](https://armourbuff.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-armourbuff-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armourbuff)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-F85149?style=for-the-badge)](https://armourbuff.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armourbuff)
 [![Profile Views](https://komarev.com/ghpvc/?username=AMITKUMARGUPTA2002&style=for-the-badge&color=F85149&label=PROFILE+VIEWS)](https://github.com/AMITKUMARGUPTA2002)
 
 </div>
