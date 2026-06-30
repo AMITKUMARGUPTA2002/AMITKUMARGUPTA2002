@@ -2,7 +2,7 @@
   ╔══════════════════════════════════════════════════════════════════╗
   ║  PROFILE README  →  repo: AMITKUMARGUPTA2002/AMITKUMARGUPTA2002    ║
   ║  Paste/upload as README.md at the root of that repo.              ║
-  ║  Identity kept as "armourbuff" — no real name, email or location. ║
+  ║  Identity kept as "Armourbuff" — no real name, email or location. ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
